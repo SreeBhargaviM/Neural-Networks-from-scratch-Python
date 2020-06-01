@@ -1,3 +1,3 @@
-# Neural-Netwroks-from-scratch-Python
+# Neural-Networks-from-scratch-Python
 Executing neural networks without using any specialised Libraries like skilearn, tensorflow or pytorch
 (Deeplearning.ai specialisation on coursera)
